@@ -1,0 +1,47 @@
+4. mkdir SI_2024_lab1_223168
+cd SI_2024_lab1_223168
+git init
+5. git remote add origin https://github.com//AleksandraJosheska/SI_2024_lab1_223168
+6.touch README.md
+nano README.md 
+- vnesuvam ime prezime i indeks
+git add REAME.md
+git commit -m "Initial commit"
+git push -u origin master
+7.touch SILab1Main.java
+touch SILab1_1.java
+touch SILab1_2.java
+nano SILab1Main.java
+nano SILab1_1.java
+nano SILab1_2.java
+git add .
+git commit -m "Add starter code"
+git fetch -u origin master
+git push all origin
+8. git fetch --all
+9. git checkout -b bug1
+git checkout master
+git checkout -b bug2
+10.git checkout bug1
+12.git checkout bug2
+13. ja popravam greskata preku nano editorot
+git add 
+git commit -m
+14.git checkout bug1
+15.
+16.git checkout bug2
+17.
+18. git fetch --all
+git pull --all
+19.git checkout master
+20.git merge bug1
+- se spoija so ort strategy
+21.git pull origin --all
+22.git checkout bug2
+24. git checkout master
+28. dodadena logs.txt
+touch logs.txt
+git log > logs.txt
+git add logs.txt
+git commit -m "all logs"
+29.git pull origin --all
