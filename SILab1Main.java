@@ -12,7 +12,12 @@ public class SILab1Main {
 
         for (int i = 0; i < n; i++) {
             list.add(sc.next());
+HEAD
         }
     }System.out.println(SILab1_1.filterOddLengthStrings(list));
 
+
+        }System.out.println(SILab1_2.makeBigStringFrom(list));
+    }
+>>>>>>> 397c6bdb9f09274ff45c7c597a904f0e672cebad
 }
