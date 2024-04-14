@@ -1,0 +1,74 @@
+commit a375500bfcf219eccbcc8e281096662d0b6fab9b
+Merge: 738f557 397c6bd
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 21:22:07 2024 +0200
+
+    Merge branch 'master' of https://github.com//AleksandraJosheska/SI_2024_lab1_223168
+
+commit 738f5574aefca338b0f47f13bff425f81fa6df40
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 21:19:44 2024 +0200
+
+    Final commit
+
+commit df72b0afd71a702943c08dd40ea4325faeb71e7d
+Merge: f753ce0 2971438
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 21:11:40 2024 +0200
+
+    Merge branch 'bug2'
+
+commit f753ce023d89b3178705e71d984b9855a983fbe9
+Merge: ee51abb 4c7b0ce
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 19:44:26 2024 +0200
+
+    Merge branch 'bug1'
+
+commit 397c6bdb9f09274ff45c7c597a904f0e672cebad
+Author: AleksandraJosheska <165596236+AleksandraJosheska@users.noreply.github.com>
+Date:   Sun Apr 14 19:42:20 2024 +0200
+
+    Call method filterOddLenghtStrings in main class
+
+commit 4c7b0ce84981e2400080d49561dfc97b803b6907
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 19:38:04 2024 +0200
+
+    Call method filterOddLenghtStrings in main class
+
+commit 29714388212aadbbf1e0570c828669a0cd7ef2d9
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 19:29:44 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit ee51abbf3eaabf7653bc76cc6a371bf8aa7ae3b6
+Author: AleksandraJosheska <165596236+AleksandraJosheska@users.noreply.github.com>
+Date:   Sun Apr 14 19:28:38 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 61e079b41f497f8b816e884e9f08f7b1f40c6c0f
+Author: AleksandraJosheska <165596236+AleksandraJosheska@users.noreply.github.com>
+Date:   Sun Apr 14 19:27:17 2024 +0200
+
+    Fix wrong condition in filterOddLenghtStrings
+
+commit 90ef1067166fd878329f2c0e13d353b622c1fbf7
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 19:24:12 2024 +0200
+
+    Fix wrong condition in filterOddLenghtStrings
+
+commit 8e0d3a13b13473f82da09ea9bd2ab1647818051f
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 17:44:12 2024 +0200
+
+    Add starter code
+
+commit 46656a9822f1c631ee103d6b39a0da20da3ad6bc
+Author: Aleksandra Joseska <aleksandrajoseska70@gmail.com>
+Date:   Sun Apr 14 17:32:25 2024 +0200
+
+    initial commit
